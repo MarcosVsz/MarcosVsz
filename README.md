@@ -1,13 +1,14 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&width=435&lines=Ol%C3%A1!+Sejam+Bem-Vindos+ao+meu+Github!!!" alt="Typing SVG" /></a>
 
 ## 🎓 Sobre Mim
+Olá! Me chamo Marcos, Técnico em Informática, apaixonado pela área, com sólida habilidade em diversas ferramentas e linguagens de progamação.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosVsz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosVsz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
+## 👨‍💻 Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-##
+## 📱 Redes Sociais
 
 <div align="left">
   <a href="https://www.instagram.com/marcoos.s_/" target="_blank">
@@ -44,11 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-##
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MarcosVsz/MarcosVsz/output/snake.svg" alt="Snake animation" />
-
-##
